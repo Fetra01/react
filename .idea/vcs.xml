@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/exo1/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo1Morpion/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo2/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo2CarreCouleur/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo3/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo3Form/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo3Url/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo3pierre/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exo4Url/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exoAjax/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exoForm/my-app" vcs="Git" />
+  </component>
+</project>
